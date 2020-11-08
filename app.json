@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/home/home"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#ff00ff",
+    "navigationBarTextStyle":"white",
+    "navigationBarTitleText":"cyw小程序"
+  },
+  "sitemapLocation": "sitemap.json"
+}

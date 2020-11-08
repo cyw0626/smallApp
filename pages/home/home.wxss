@@ -1,0 +1,15 @@
+page{
+    background-color:pink;
+    height:100%;
+    width:750rpx;
+}
+.time{
+  font-size:20pt;
+  color:rgb(0, 92, 128);  
+  margin-left: 150rpx;
+}
+.title{
+    font-size:30pt;
+    margin-left: 200rpx;
+    color:green;
+}
