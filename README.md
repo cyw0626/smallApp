@@ -1,2 +1,2 @@
 # smallApp
-The aim to build a small app via Taro.
+The aim to build a small app .
